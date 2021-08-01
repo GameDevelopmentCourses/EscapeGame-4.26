@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.EscapeGame.iml
+# Datasource local storage ignored files
+/../../../../../../:\Unreal_Projects\EscapeGame\.idea\.idea.EscapeGame\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
